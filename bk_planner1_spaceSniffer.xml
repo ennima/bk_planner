@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exportConfig version="2">&#xD;
+<description>bk_planner1</description>&#xD;
+<preferredFileName>bk_planner1</preferredFileName>&#xD;
+<preferredFileExtension>Text file (*.txt)|*.txt</preferredFileExtension>&#xD;
+<description>bk_planner1</description>&#xD;
+<headerFormat></headerFormat>&#xD;
+<detailFormat>e3NjcmlwdH0NCnsgICBpZiB7PCVpc2ZpbGUlPn0gPT0ge3RydWV9DQogID8geyAtIFt7bGVm&#xD;
+dHBhZHs8JWRpc2tzaXplJT59eyB9ezh9fV0gPCVmaWxlJT57JmJyfX0NCiAgOiB7ICAgaWYg&#xD;
+ezwlY29udGFpbnNmaWxlcyU+fSA9PSB7dHJ1ZX0NCiAgICAgID8ge3smYnJ9PCVwYXRoZmls&#xD;
+ZSU+IFs8JWRpc2tzaXplJT5deyZicn19DQogICAgfQ0KfQ==&#xD;
+</detailFormat>&#xD;
+<footerFormat></footerFormat>&#xD;
+<blockSorting>folders</blockSorting>&#xD;
+<fineSorting>size</fineSorting>&#xD;
+<fineSortingDirection>desc</fineSortingDirection>&#xD;
+</exportConfig>
